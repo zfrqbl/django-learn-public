@@ -1,4 +1,4 @@
-# django-learn-public
+# Learn Django in TWO Months
 Join me in learning Django, the most popular Python web framework in two (02) months.
 
 ## Start with Python OOP
